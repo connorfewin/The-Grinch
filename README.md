@@ -9,6 +9,9 @@ Installation:
     numpy
     fastquant
     selenium
+    psaw
+    textblob
+    tweepy
     
    TDA: 
     - After installing the tda-api we need to configure the TDA api (Reference Config.py in the TDA folder, these are the things we need to fill out)
@@ -22,4 +25,5 @@ Installation:
       + This has all the information on how to use the api, it can be a little hard to turn it into code, so reference our code while going
         through the documentation, should clear a lot of things up. It is not too difficult once you get the hang of it.
       
-    
+    Sentiment:
+    - After installing tweepy a twitter api will need to be set-up through https://developer.twitter.com/en/portal/petition/essential/basic-info. The keys you recieve will be added in to twitter token under the API_Web_Scraper Directory. 
