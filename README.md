@@ -1,8 +1,8 @@
 **The-Grinch**
+
 Open Source Github Repository to start Algorithmic Trading 
-Installation:
-  Requirements: (pip install ~each of the following items~)
-  
+Installation Requirements pip install each of the following items
+
     - numpy
     - selenium
     - tda-api
@@ -20,6 +20,7 @@ Installation:
     - fastquant
     
    **TDA**
+   
     - After installing the tda-api we need to configure the TDA api (Reference Config.py in the TDA folder, these are the things we need to fill out)
       + you will need to go to https://developer.tdameritrade.com/apis
         - signup or login and create an application
